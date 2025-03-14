@@ -3,3 +3,5 @@ remote_theme: "d33pk3rn3l/no-style-please"
 baseurl: ""
 url: "https://d33pk3rn3l.github.io"
 markdown: kramdown
+theme_config:
+  appearance: dark
