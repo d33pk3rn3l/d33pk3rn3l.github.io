@@ -5,6 +5,7 @@ url: "https://d33pk3rn3l.github.io"
 markdown: kramdown
 theme_config:
   appearance: dark
+  link: "#ab009d"
 defaults:
   - scope:
       path: "_assets/images"
