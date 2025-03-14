@@ -4,7 +4,9 @@ entries:
   - title: "Projects"
     url: "/projects"
   - title: "Blog"
-    url: "/blog"
-    entries:
-      - title: "Test Post"
-        url: "2025/03/14-Test-Post"
+  - title: Posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
