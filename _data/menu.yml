@@ -4,7 +4,7 @@ entries:
   - title: "Projects"
     url: "/projects"
   - title: "Blog"
-  - title: Posts
+  - title: "Posts"
     post_list:
       limit: 5
       show_more: true
