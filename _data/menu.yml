@@ -6,5 +6,5 @@ entries:
   - title: "Blog"
     url: "/blog"
     entries:
-      - title: "Welcome to My Blog"
-        url: "/2024/01/01/welcome-to-my-blog"
+      - title: "Test Post"
+        url: "2025-03-14-Pest-Post"
