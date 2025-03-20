@@ -16,6 +16,14 @@ defaults:
   - scope:
       path: "_assets/images"
 
+sass:
+  load_paths:
+    - _sass
+  style: compressed
+
+custom_css:
+  - _sass/custom.css
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
