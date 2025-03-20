@@ -2,7 +2,11 @@ entries:
   - title: "Home"
     url: "/"
   - title: "Projects"
-    url: "/projects"
+    entries:
+      - title: "Space Systems Engineering Summary"
+        url: "https://d33pk3rn3l.github.io/sse_page/"
+      - title: "Swiss Public Transport Cost Calculator"
+        url: "https://github.com/d33pk3rn3l/SwissPublicTransportCalculator"
   - title: "Blog"
   - title: "Posts"
     post_list:
@@ -10,4 +14,4 @@ entries:
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
-      date_format: false
+
