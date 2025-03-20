@@ -1,13 +1,25 @@
-title: "My Personal Page"
+# Example: https://github.com/riggraz/no-style-please/blob/master/_config.yml
+
+title: "d33pk3rn3l personal site"
 remote_theme: "d33pk3rn3l/no-style-please"
 baseurl: ""
+description: "Personal site of d33pk3rn3l with projects, blog posts and more."
 url: "https://d33pk3rn3l.github.io"
+favicon: "favicon.png"
 markdown: kramdown
 theme_config:
   appearance: dark
-  link: "#ab009d"
-  back_home_text: ".." # customize text for homepage link in post layout
+  back_home_text: "<-" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d"
+  show_description: false
 defaults:
   - scope:
       path: "_assets/images"
+
+jektex:
+  cache_dir: ".jektex-cache"
+  ignore: ["*.xml"]
+  silent: false
+  macros:
+    - ["\\Q", "\\mathbb{Q}"]
+    - ["\\C", "\\mathbb{C}"]
