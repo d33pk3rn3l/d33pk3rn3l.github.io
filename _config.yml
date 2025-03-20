@@ -5,7 +5,7 @@ remote_theme: "d33pk3rn3l/no-style-please"
 baseurl: ""
 description: "Personal site of d33pk3rn3l with projects, blog posts and more."
 url: "https://d33pk3rn3l.github.io"
-favicon: "favicon.png"
+favicon: "fav.ico"
 markdown: kramdown
 theme_config:
   appearance: dark
