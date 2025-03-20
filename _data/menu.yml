@@ -1,3 +1,5 @@
+# Example: https://github.com/riggraz/no-style-please/blob/master/_data/menu.yml
+
 entries:
   - title: "Home"
     url: "/"
@@ -10,6 +12,7 @@ entries:
   - title: "Blog"
   - title: "Posts"
     post_list:
+      category: posts
       limit: 5
       show_more: true
       show_more_text: See archive...
