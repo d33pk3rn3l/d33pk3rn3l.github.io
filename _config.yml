@@ -6,6 +6,7 @@ markdown: kramdown
 theme_config:
   appearance: dark
   link: "#ab009d"
+  date_format: false
 defaults:
   - scope:
       path: "_assets/images"
