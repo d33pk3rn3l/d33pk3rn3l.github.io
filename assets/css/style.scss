@@ -1,16 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+$brand_color: #c300e6;
 
-a {
-    color: #c300e6 !important;
-    
-    &:visited {
-      color: rgb(124, 0, 146) !important;
-    }
-    
-    &:hover {
-      color: #d900ff !important;
-    }
-  }
+@import "{{ site.theme }}";

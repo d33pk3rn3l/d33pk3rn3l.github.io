@@ -12,7 +12,6 @@ theme_config:
   back_home_text: "<-" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d"
   show_description: false
-  brand_color: "#c300e6"
 defaults:
   - scope:
       path: "_assets/images"
