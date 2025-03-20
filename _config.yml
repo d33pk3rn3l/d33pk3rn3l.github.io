@@ -12,12 +12,9 @@ theme_config:
   back_home_text: "<-" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d"
   show_description: false
-defaults:
-  - scope:
-      path: "_assets/images"
 
 sass:
-  sass_dir: assets/css
+  sass_dir: assets/css/
   style: compressed
 
 plugins:
