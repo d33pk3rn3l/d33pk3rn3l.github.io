@@ -4,3 +4,12 @@
 $brand_color: #c300e6;
 
 @import "{{ site.theme }}";
+
+// Override link styles after theme import
+a {
+  color: $brand_color;
+  
+  &:hover {
+    color: darken($brand_color, 10%);
+  }
+}
