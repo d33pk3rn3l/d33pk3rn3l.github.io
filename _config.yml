@@ -17,12 +17,7 @@ defaults:
       path: "_assets/images"
 
 sass:
-  load_paths:
-    - _sass
-  style: compressed
-
-custom_css:
-  - _sass/custom.css
+  sass_dir: _sass
 
 plugins:
   - jekyll-feed
