@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a {
+    color: #c300e6 !important;
+    
+    &:visited {
+      color: rgb(124, 0, 146) !important;
+    }
+    
+    &:hover {
+      color: #d900ff !important;
+    }
+  }
