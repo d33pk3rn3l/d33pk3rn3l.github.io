@@ -5,8 +5,6 @@ date: 2025-04-16 15:45:19
 category: posts
 ---
 
-## My First TrainLag: A Public Transport Chase Across Zürich
-
 My old student association, [GESO](https://geso.ethz.ch/) at ETH Zürich, advertised an event: TrainLag. The description was minimal – basically, an escape game using the entire [Zürcher Verkehrsverbund (ZVV)](https://www.zvv.ch/zvv/en/home.html) public transport network. As a huge ÖV (public transport) fan, that's all I needed to hear. I roped in three friends from my geospatial engineering undergrad days (F, P, and L), we dubbed ourselves "brain-lag".
 
 For those unfamiliar, [TrainLag](https://github.com/oOCraftRabbitOo/trainlag) pits teams against each other across the ZVV network. You're either a *Wegrenner* (runner) completing challenges for points, or a *Jäger* (catcher) hunting down runners to steal their accumulated bounty and switch roles. All while using only ZVV-approved transport and being tracked via a location-sharing app ([Life360](https://www.life360.com/), in our case).
