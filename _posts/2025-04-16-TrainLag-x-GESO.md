@@ -148,4 +148,4 @@ GG\! What a game.
 *Find out more about TrainLag:*
 
   * *GH project:* [https://github.com/oOCraftRabbitOo/trainlag](https://github.com/oOCraftRabbitOo/trainlag)
-  * *Founders:* [https://github.com/oOCraftRabbitOo](https://github.com/oOCraftRabbitOo), [https://github.com/KaiTheJu](https://github.com/KaiTheJu)
+  * *Founders/Legendäri Urgstei:* Aurèle, Julian, [KaiTheJu](https://github.com/KaiTheJu), [oOCraftRabbitOo](https://github.com/oOCraftRabbitOo) (alphabetically)
