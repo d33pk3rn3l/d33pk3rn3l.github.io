@@ -5,7 +5,7 @@ date: 2025-05-06 15:45:19
 category: posts
 ---
 
-# Swiss Public Transport Cost Calculator: Finding Your Best Travel Card
+# Finding Your Best Travel Card
 
 Ever stood at a Swiss train station kiosk, staring at all those subscription options and wondering which one would actually save you money? I've been there too.
 
