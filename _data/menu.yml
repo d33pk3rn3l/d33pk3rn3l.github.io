@@ -1,13 +1,13 @@
-# Example: https://github.com/riggraz/no-style-please/blob/master/_data/menu.yml
-
 entries:
   - title: "Projects"
+    bold: true
     entries:
       - title: "Space Systems Engineering Summary"
         url: "https://d33pk3rn3l.github.io/sse_page/"
       - title: "Swiss Public Transport Cost Calculator"
         url: "https://github.com/d33pk3rn3l/SwissPublicTransportCalculator"
   - title: "Posts"
+    bold: true
     post_list:
       category: posts
       limit: 5
