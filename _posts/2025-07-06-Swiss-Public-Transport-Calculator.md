@@ -29,7 +29,7 @@ The tool uses two basic CSV files:
 
 The calculator then does the math and creates a visual breakdown of your annual costs with each option.
 
-![Cost comparison chart showing different travel card options](https://github.com/d33pk3rn3l/SwissPublicTransportCalculator/blob/main/annual_costs_breakdown.png)
+![Cost comparison chart showing different travel card options](https://github.com/d33pk3rn3l/SwissPublicTransportCalculator/blob/main/annual_costs_breakdown.png?raw=true)
 
 ## Try It Yourself
 
