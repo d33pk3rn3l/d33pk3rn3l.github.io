@@ -3,7 +3,7 @@ entries:
     bold: true
     entries:
       - title: "The Haven: A Framework for Continuity"
-      - url: "https://github.com/d33pk3rn3l/the-haven"
+        url: "https://github.com/d33pk3rn3l/the-haven"
       - title: "Space Systems Engineering Summary"
         url: "https://d33pk3rn3l.github.io/sse_page/"
       - title: "Swiss Public Transport Cost Calculator"
